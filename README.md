@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Jagrat Sahni
 **Data Aspirant**
 
-Email Me 👉 ✉️ **jagratsahni@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jagratsahni/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagratsahni@gmail.com) 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-FFD700?style=flat-square&logoColor=black&labelColor=FFD700&color=FFD700)](https://codebasics.io/portfolio/JAGRAT-SAHNI)
